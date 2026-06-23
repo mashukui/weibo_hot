@@ -20,6 +20,9 @@
 - 使用`pandas`生成表格数据
 - 将结果保存为Excel文件
 
+## 🎬 演示视频
+源码演示视频：https://www.bilibili.com/video/BV1Xb4y1p7Ka/
+
 ## ✨ 功能特点
 
 - 自动抓取微博热搜榜数据
